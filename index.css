@@ -1,0 +1,37 @@
+.main-title{
+    display: flex;
+    justify-content: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+}
+.btn{
+    display: flex;
+    margin-left: 43%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px;
+    font-size: 25px;
+    
+}
+.quotes{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.border{
+    display: flex;
+    justify-content: center;
+    margin-left: 48%;
+
+    width: 50px;
+    height: 50px;
+    border: solid ;
+}
+.author-name{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-left: 180px;
+}
